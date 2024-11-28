@@ -1,0 +1,11 @@
+{
+  "/productos/nuevoProducto/page": "app/productos/nuevoProducto/page.js",
+  "/usuarios/mostrar/page": "app/usuarios/mostrar/page.js",
+  "/ventas/nuevaVenta/page": "app/ventas/nuevaVenta/page.js",
+  "/usuarios/editar/[id]/page": "app/usuarios/editar/[id]/page.js",
+  "/productos/mostrarProductos/page": "app/productos/mostrarProductos/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/ventas/mostrarVentas/page": "app/ventas/mostrarVentas/page.js",
+  "/productos/editar/[id]/page": "app/productos/editar/[id]/page.js",
+  "/ventas/editar/[id]/page": "app/ventas/editar/[id]/page.js"
+}
